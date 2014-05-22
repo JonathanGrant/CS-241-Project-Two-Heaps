@@ -1,0 +1,13 @@
+Sequential Insertion Swaps: 103
+
+Optimal Method Swaps: 84
+
+Sequential Insertion Array: 100 94 99 77 93 98 61 6
+Optimal Method Array: 100 95 99 79 87 97 59 71 75 8
+
+Sequential Insertion Swaps: 24
+Optimal Method Swaps: 5
+
+After Deletion:
+Sequential Insertion Array: 85 76 83 53 71 80 61 32
+Optimal Method Array: 91 75 82 72 73 81 59 46 74 69
